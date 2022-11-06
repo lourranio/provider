@@ -20,3 +20,5 @@ identity provider and service provider
 sonarr_username: admin
 sonarr_password: password
 ```
+![alt](img/authentik-attributes-login-passsword.png)
+![alt](./img/authentik-attributes-login-passsword.png)
