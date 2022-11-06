@@ -12,4 +12,11 @@ identity provider and service provider
 
 
 4. Setup Sonarr SSO with Authentik and Nginx Proxy Manager
+
  ```https://www.youtube.com/watch?v=OBJa2G3Ef7o```
+
+5. SCRIPT
+```
+sonarr_username: admin
+sonarr_password: password
+```
