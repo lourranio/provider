@@ -22,3 +22,8 @@ sonarr_password: password
 ```
 
 ![alt](./img/authentik-attributes-login-passsword.png)
+
+
+6. Migrating users from LDAP to Authentik
+
+https://blog.cubieserver.de/2022/migrating-users-from-ldap-to-authentik/
